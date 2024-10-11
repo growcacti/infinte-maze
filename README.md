@@ -1,2 +1,2 @@
 # infinte-maze
-Basic player toa game I am in dev
+Basic (pygame grogram) game with player to a game I am in development
